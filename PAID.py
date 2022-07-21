@@ -379,16 +379,14 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\x1b[1;92m
-\x1b[1;90m════════════════════════════════════════════\x1b[1;92m
-\x1b[1;90m════════════════════════════════════════════\x1b[1;92m
-\x1b[1;92m╔═════════════════════════════╗
-\x1b[1;92m║ TOOL NAME  : { Premium }                              ║
-\x1b[1;92m║ AUTHOR       :  MR. RINKU                               ║
-\x1b[1;92m║ GITHUB        :  git.me/RINKU-CYBER-404         ║
- \x1b[1;92m║ FACEBOOK   :  RINKU                                      ║
- \x1b[1;92m║ Group          :  KING OF CRIMINAL                     ║
- \x1b[1;92m║ WHATSAPP  :  [ ERROR ]                               ║
- \x1b[1;92m╚═════════════════════════════
+
+\x1b[1;92m╔━━═════════════════════════════════════━━╗
+\x1b[1;92m  TOOL NAME  :  Premium                                              
+\x1b[1;92m  AUTHOR       :  MR. RINKU                               
+\x1b[1;92m  GITHUB        :  RINKU-CYBER-404         
+\x1b[1;92m  FACEBOOK   :  RINKU                                      
+\x1b[1;92m  Group          :  KING OF CRIMINAL                                                   
+\x1b[1;92m╚━━═════════════════════════════════════━━╝
 \x1b[1;90m════════════════════════════════════════════\x1b[1;92m
 \x1b[1;90m════════════════════════════════════════════\x1b[1;92m""")
 
