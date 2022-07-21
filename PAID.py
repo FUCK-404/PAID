@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ahsan="Mr"
-imt="-R1NKU=="
-ak="KT"
+ahsan="coc"
+imt="-4B1R=="
+ak="rd"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -383,9 +383,9 @@ logo = ("""\x1b[1;92m
 \x1b[1;92m╔━━═════════════════════════════════════━━╗
 \x1b[1;92m  TOOL NAME  : Premium                                              
 \x1b[1;92m  AUTHOR     : MR. RINKU                               
-\x1b[1;92m  GITHUB     :RINKU-CYBER-404         
-\x1b[1;92m  FACEBOOK   :RINKU                                      
-\x1b[1;92m  Group    :  KING OF CRIMINAL                                                   
+\x1b[1;92m  GITHUB     : RINKU-CYBER-404         
+\x1b[1;92m  FACEBOOK   : RINKU                                      
+\x1b[1;92m  Group     : KING OF CRIMINAL                                                   
 \x1b[1;92m╚━━═════════════════════════════════════━━╝
 \x1b[1;90m════════════════════════════════════════════\x1b[1;92m
 \x1b[1;90m════════════════════════════════════════════\x1b[1;92m""")
